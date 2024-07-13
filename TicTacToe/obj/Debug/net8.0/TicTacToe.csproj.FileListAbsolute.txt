@@ -1,0 +1,14 @@
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/dombrazeel/Documents/GitHub/TicTacToe/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
